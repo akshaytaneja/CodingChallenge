@@ -16,7 +16,8 @@ Running WebService:
  
  1. After installing all python dependency, execute the MetaScoreWebService.py on the command line which will start a webservice at default port 8080. 
 	
-	`C:\Users\Akshay\Documents\GitHub\CodingChallenge\GetMetaScoreRESTAPI> python MetaScoreWebService.py`
+ `C:\Users\Akshay\Documents\GitHub\CodingChallenge\GetMetaScoreRESTAPI> python MetaScoreWebService.py`
+
 	`http://0.0.0.0:8080`
 		
  2. Open the address "http://localhost:8080/games" on a webbrowser and it should return the JSON format for the parsed MetaScore information of games.
