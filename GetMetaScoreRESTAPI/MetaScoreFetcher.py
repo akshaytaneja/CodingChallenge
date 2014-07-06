@@ -1,5 +1,6 @@
 __author__ = 'Akshay'
 
+import re
 import json
 import urllib2
 import logging
@@ -136,7 +137,8 @@ class MetaScoreFetcher(object):
         :param title: Name of the game title received as a input to GET method
         :return: convert the argument into href string.
         """
-        return ''.join([DEFAULT_HREF_HEAD, title.replace(" ", "-").replace(":", "")])
+        title = re.sub('[:]', '', title)
+        return ''.join([DEFAULT_HREF_HEAD, re.sub(' ', '-', title)])
 
     def serialize(self):
         "Serializes this object in a JSON compatible format"
@@ -146,6 +148,7 @@ class MetaScoreFetcher(object):
             serializedList.append(info.serialize())
 
         return json.dumps(serializedList, indent=4, separators=(',', ':'))
+
 
 class GameInformation(object):
 

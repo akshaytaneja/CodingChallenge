@@ -1,0 +1,84 @@
+INFO:MetaScoreFetcher:[<div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/child-of-light">Child of Light</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/minecraft-playstation-3-edition">Minecraft: PlayStation 3 Edition</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/the-wolf-among-us-episode-3---a-crooked-mile">The Wolf Among Us: Episode 3 - A Crooked Mile</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/atelier-rorona-plus-the-alchemist-of-arland">Atelier Rorona Plus: The Alchemist of Arland</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/the-walking-dead-season-two-episode-3---in-harms-way">The Walking Dead: Season Two Episode 3 - In Harm's Way</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/tales-from-space-mutant-blobs-attack">Tales From Space: Mutant Blobs Attack</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/grid-autosport">GRID Autosport</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/2014-fifa-world-cup-brazil">2014 FIFA World Cup Brazil</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/don-bradman-cricket-14">Don Bradman Cricket 14</a></h3></div>, <div class="basic_stat product_title"><h3 class="product_title"><a href="/game/playstation-3/battle-princess-of-arcadias">Battle Princess of Arcadias</a></h3></div>]
+INFO:MetaScoreFetcher:Child of Light
+INFO:MetaScoreFetcher:/game/playstation-3/child-of-light
+INFO:MetaScoreFetcher:Minecraft: PlayStation 3 Edition
+INFO:MetaScoreFetcher:/game/playstation-3/minecraft-playstation-3-edition
+INFO:MetaScoreFetcher:The Wolf Among Us: Episode 3 - A Crooked Mile
+INFO:MetaScoreFetcher:/game/playstation-3/the-wolf-among-us-episode-3---a-crooked-mile
+INFO:MetaScoreFetcher:Atelier Rorona Plus: The Alchemist of Arland
+INFO:MetaScoreFetcher:/game/playstation-3/atelier-rorona-plus-the-alchemist-of-arland
+INFO:MetaScoreFetcher:The Walking Dead: Season Two Episode 3 - In Harm's Way
+INFO:MetaScoreFetcher:/game/playstation-3/the-walking-dead-season-two-episode-3---in-harms-way
+INFO:MetaScoreFetcher:Tales From Space: Mutant Blobs Attack
+INFO:MetaScoreFetcher:/game/playstation-3/tales-from-space-mutant-blobs-attack
+INFO:MetaScoreFetcher:GRID Autosport
+INFO:MetaScoreFetcher:/game/playstation-3/grid-autosport
+INFO:MetaScoreFetcher:2014 FIFA World Cup Brazil
+INFO:MetaScoreFetcher:/game/playstation-3/2014-fifa-world-cup-brazil
+INFO:MetaScoreFetcher:Don Bradman Cricket 14
+INFO:MetaScoreFetcher:/game/playstation-3/don-bradman-cricket-14
+INFO:MetaScoreFetcher:Battle Princess of Arcadias
+INFO:MetaScoreFetcher:/game/playstation-3/battle-princess-of-arcadias
+INFO:MetaScoreFetcher:[<a class="basic_stat product_score" href="/game/playstation-3/child-of-light">
+<span class="metascore_w medium game positive">89</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/minecraft-playstation-3-edition">
+<span class="metascore_w medium game positive">86</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/the-wolf-among-us-episode-3---a-crooked-mile">
+<span class="metascore_w medium game positive">82</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/atelier-rorona-plus-the-alchemist-of-arland">
+<span class="metascore_w medium game positive">81</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/the-walking-dead-season-two-episode-3---in-harms-way">
+<span class="metascore_w medium game positive">80</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/tales-from-space-mutant-blobs-attack">
+<span class="metascore_w medium game positive">79</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/grid-autosport">
+<span class="metascore_w medium game positive">77</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/2014-fifa-world-cup-brazil">
+<span class="metascore_w medium game mixed">73</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/don-bradman-cricket-14">
+<span class="metascore_w medium game mixed">73</span>
+</a>, <a class="basic_stat product_score" href="/game/playstation-3/battle-princess-of-arcadias">
+<span class="metascore_w medium game mixed">72</span>
+</a>]
+INFO:MetaScoreFetcher:Response to user:[
+    {
+        "MetaScore":"79",
+        "title":"Tales From Space: Mutant Blobs Attack"
+    },
+    {
+        "MetaScore":"82",
+        "title":"The Wolf Among Us: Episode 3 - A Crooked Mile"
+    },
+    {
+        "MetaScore":"72",
+        "title":"Battle Princess of Arcadias"
+    },
+    {
+        "MetaScore":"73",
+        "title":"Don Bradman Cricket 14"
+    },
+    {
+        "MetaScore":"77",
+        "title":"GRID Autosport"
+    },
+    {
+        "MetaScore":"81",
+        "title":"Atelier Rorona Plus: The Alchemist of Arland"
+    },
+    {
+        "MetaScore":"80",
+        "title":"The Walking Dead: Season Two Episode 3 - In Harm's Way"
+    },
+    {
+        "MetaScore":"89",
+        "title":"Child of Light"
+    },
+    {
+        "MetaScore":"73",
+        "title":"2014 FIFA World Cup Brazil"
+    },
+    {
+        "MetaScore":"86",
+        "title":"Minecraft: PlayStation 3 Edition"
+    }
+]
